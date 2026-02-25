@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Sara 👋
 
-<!--
-**SaraGokceli/SaraGokceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior data analyst focused on turning raw data into clear insights and dashboards.
 
-Here are some ideas to get you started:
+## Core Skills
+- SQL (BigQuery, PostgreSQL)
+- Google Analytics 4 (GA4)
+- Google Sheets
+- Looker Studio
+- Funnel, cohort & performance analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+📌 Data Analytics Portfolio: https://github.com/SaraGokceli/data-analytics-portfolio
