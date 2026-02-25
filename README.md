@@ -7,6 +7,8 @@ I’m a junior data analyst focused on turning raw data into clear insights and 
 - Google Analytics 4 (GA4)
 - Google Sheets
 - Looker Studio
+- Tableu
+- PowerBI
 - Funnel, cohort & performance analysis
 
 ## Portfolio
